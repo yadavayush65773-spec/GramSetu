@@ -1,0 +1,6 @@
+{
+  "name": "GramSetu - Rural Development & Scheme Monitoring Platform",
+  "description": "Digital rural development scheme monitoring, beneficiary verification, field inspections, installment approvals, and fraud risk detection platform for TechTrix'26.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
